@@ -1,2 +1,2 @@
 # presentation-page
-In this repository, it was created to show my page.
+This repository, it was created to show my page.
